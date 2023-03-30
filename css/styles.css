@@ -65,6 +65,10 @@ tr {
     border-color: inherit;
 }
 
+label {
+	color: aliceblue;
+}
+
 input {
     height: 2em;
     width: 17em;
