@@ -4,12 +4,30 @@
     border: 0;
 }
 
-header {
-
+nav {
+    padding: 5px 0;
+	width: 100%;
+	background-color: black;
+	min-height: 50px;
 }
 
-nav {
+nav ul {
+    display: block;
+	text-align: center;
+}
+
+nav ul li {
     display: inline-block;
+	list-style: none;
+	width: 15%;
+	background-color: black;
+	margin-top: .8%;
+}
+
+nav a {
+    color: lightskyblue;
+	text-decoration: none;
+	font-size: 1.5em;
 }
 
 main {
@@ -30,9 +48,6 @@ img {
     float: right;
 }
 
-p {
-    font-size: 2em;
-}
 
 footer {
     
