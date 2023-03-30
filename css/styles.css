@@ -13,7 +13,11 @@ nav {
 }
 
 main {
+    max-width: 80%;
+}
 
+p {
+    font-size: 2em;
 }
 
 footer {
