@@ -41,6 +41,10 @@ nav ul li:hover {
 	text-decoration: underline;
 }
 
+nav ul li a:hover {
+	color: orange;
+}
+
 main {
 
 }
