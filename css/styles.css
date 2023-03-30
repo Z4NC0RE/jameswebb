@@ -4,6 +4,12 @@
     border: 0;
 }
 
+header h1 {
+	font-size: 3em;
+	text-decoration: underline;
+	text-align: center;
+}
+
 nav {
     padding: 5px 0;
 	width: 100%;
@@ -30,7 +36,10 @@ nav a {
 	font-size: 1.5em;
 }
 
-
+nav ul li:hover {
+	color: orange;
+	text-decoration: underline;
+}
 
 main {
 
