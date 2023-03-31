@@ -68,7 +68,7 @@ img {
 }
 
 .newsletterimg {
-    padding: 15px;
+    padding: 30px;
 }
 
 table {
@@ -114,5 +114,6 @@ input {
 footer {
     color: black;
     background-color: aliceblue;
+    text-align: center;
 }
 
