@@ -56,7 +56,7 @@ main {
 
 main a {
     padding: 15px;
-    border: 10px;
+    border-radius: 10px;
     margin: 5px;
     background-color: lightskyblue;
     color: black;
