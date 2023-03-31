@@ -69,6 +69,10 @@ img {
     float: right;
 }
 
+.homeimg {
+    padding: 50px;
+}
+
 .newsletterimg {
     padding: 30px;
 }
