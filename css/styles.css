@@ -5,9 +5,9 @@
 }
 
 header {
-    background-color: black;
+    background-color: aliceblue;
     min-height: 100px;
-    color: aliceblue;
+    color: black;
 }
 
 header h1 {
