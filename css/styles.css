@@ -77,6 +77,11 @@ img {
     max-width: 500px;
 }
 
+.nebula {
+    min-width: 600px;
+    min-height: 500px;
+}
+
 .newsletterimg {
     padding: 30px;
 }
