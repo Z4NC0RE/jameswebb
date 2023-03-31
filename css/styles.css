@@ -72,6 +72,11 @@ img {
     padding: 50px;
 }
 
+.neptune {
+    max-height: 700px;
+    max-width: 500px;
+}
+
 .newsletterimg {
     padding: 30px;
 }
