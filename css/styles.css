@@ -4,6 +4,10 @@
     border: 0;
 }
 
+header {
+    background-color: aliceblue;
+}
+
 header h1 {
 	font-size: 3em;
 	text-decoration: underline;
@@ -46,7 +50,7 @@ nav ul li a:hover {
 }
 
 main {
-
+    background-color: aliceblue;
 }
 
 #container {
@@ -61,6 +65,10 @@ main {
 
 img {
     float: right;
+}
+
+.newsletterimg {
+    padding: 15px;
 }
 
 table {
